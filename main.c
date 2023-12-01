@@ -51,5 +51,6 @@ int main(int ac, char **av)
 	free(token);
 	free(line);
 	free(line_cpy);
+	
 	return (0);
 }
